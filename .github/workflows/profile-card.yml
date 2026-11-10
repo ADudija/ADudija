@@ -1,0 +1,44 @@
+# Rebuilds the terminal card (dark_mode.svg / light_mode.svg) with fresh
+# GitHub stats once a day, and whenever the card's inputs change.
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "assets/**"
+      - "tools/build_card.py"
+      - ".github/workflows/profile-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild the card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/build_card.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.svg'
+          git diff --cached --quiet || git commit -m "Update profile card"
+          git push

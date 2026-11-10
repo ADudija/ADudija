@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="722" height="457" viewBox="0 0 722 457" font-family="Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<style>text,tspan{white-space:pre}.k{fill:#F76E0A}.v{fill:#a5d6ff}.d{fill:#616e7f}.t{fill:#F76E0A;font-weight:bold}@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}</style>
+<rect x="0.5" y="0.5" width="721" height="456" rx="15" fill="#161b22" stroke="#30363d"/>
+<text fill="#c9d1d9" font-size="11">
+<tspan x="30" y="40.0">              `:`</tspan>
+<tspan x="30" y="52.4">              ```.``.</tspan>
+<tspan x="30" y="64.8">                .   .`</tspan>
+<tspan x="30" y="77.2">          `:-==+***- ::</tspan>
+<tspan x="30" y="89.6">        .`--=*cx#%&amp;%c:--`</tspan>
+<tspan x="30" y="102.0">       .`:-=+co#&amp;&amp;@@@%+=-.</tspan>
+<tspan x="30" y="114.4">      .``:-=*ox#%&amp;&amp;&amp;&amp;@&amp;oc:        .....</tspan>
+<tspan x="30" y="126.8">      `:::-+cx%&amp;&amp;@@&amp;@&amp;@&amp;#+` .......````</tspan>
+<tspan x="30" y="139.2">      .:::-+cccoo#%@@@@&amp;%x: ..`````````</tspan>
+<tspan x="30" y="151.6">       `==-:     `-o&amp;&amp;&amp;@&amp;%:.`````````::</tspan>
+<tspan x="30" y="164.0">       `*#=     `--+#@&amp;@&amp;c..````:::::::</tspan>
+<tspan x="30" y="176.4">       :o&amp;x=...`+coo%@@&amp;#*c*:`:::::----</tspan>
+<tspan x="30" y="188.8">       =#&amp;@&amp;#cco#&amp;@@@@@@&amp;@x**:::-------</tspan>
+<tspan x="30" y="201.2">      `=o@@&amp;%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@&amp;#@x+o:----=====</tspan>
+<tspan x="30" y="213.6">       :++x%cx&amp;@@@@@@@@&amp;o%#x*=====+++++</tspan>
+<tspan x="30" y="226.0">        ``+#xo#&amp;&amp;@@@@@&amp;%%%&amp;o=+++++*****</tspan>
+<tspan x="30" y="238.4">        `-+*co#&amp;@@@@@&amp;%@@@x+++****ccccc</tspan>
+<tspan x="30" y="250.8">       .`:==-=c%&amp;&amp;&amp;&amp;&amp;%oco*+**ccccoooooo</tspan>
+<tspan x="30" y="263.2">     .`:+cooc=+x&amp;%%&amp;&amp;x+=++*ccooooxxxx##</tspan>
+<tspan x="30" y="275.6">       .-+cx%x+c#cc#xo+**ccoooxx####%%%</tspan>
+<tspan x="30" y="288.0">       `-===+--+=:=*x#*cccoxx###%%%&amp;&amp;&amp;&amp;</tspan>
+<tspan x="30" y="300.4">     . `--`:=:``::*#@c.+cxx##%%&amp;&amp;&amp;&amp;&amp;@@@</tspan>
+<tspan x="30" y="312.8">         . .`. `+x@@&amp;c .-c#%%%&amp;@@@@@@@@</tspan>
+<tspan x="30" y="325.2">             :*x&amp;@&amp;&amp;@+  `-*#&amp;@@&amp;&amp;@@@@@@</tspan>
+<tspan x="30" y="337.6">        `:=*o##%%&amp;@@x   `--+c%&amp;@@&amp;&amp;&amp;@@@</tspan>
+<tspan x="30" y="350.0">     :=+*cx##x#%%&amp;&amp;x:   .:-===*o&amp;@@@@&amp;&amp;</tspan>
+<tspan x="30" y="362.4">    .=c**oxxxx####o-    .:------=cx%&amp;@@</tspan>
+<tspan x="30" y="374.8">    `=+*coxxoxxxxc-     `:-:::::.``.-*o</tspan>
+<tspan x="30" y="387.2">  .:-=+*ccccooooc=      `::::```. `</tspan>
+<tspan x="30" y="399.6">. `:-=++++**cc+=:       ``::``.    .</tspan>
+<tspan x="30" y="412.0">```:-=====+=-`          ``````.</tspan>
+<tspan x="30" y="424.4">.``.````.              .```..        .</tspan>
+</text><text fill="#c9d1d9" font-size="12">
+<tspan x="317.4" y="44.9" class="t">albi@dudija</tspan>
+<tspan x="317.4" y="62.9" class="d">-----------</tspan>
+<tspan x="317.4" y="80.9" class="k">Name</tspan><tspan>: </tspan><tspan class="d">.................................. </tspan><tspan class="v">Albi Dudija</tspan>
+<tspan x="317.4" y="98.9" class="k">Role</tspan><tspan>: </tspan><tspan class="d">.................. </tspan><tspan class="v">Founder &amp; Software Engineer</tspan>
+<tspan x="317.4" y="116.9" class="k">Company</tspan><tspan>: </tspan><tspan class="d">................................ </tspan><tspan class="v">Freelancer</tspan>
+<tspan x="317.4" y="134.9" class="k">Location</tspan><tspan>: </tspan><tspan class="d">.......................... </tspan><tspan class="v">Tiranë, Albania</tspan>
+<tspan x="317.4" y="152.9" class="k">Experience</tspan><tspan>: </tspan><tspan class="d">.............................. </tspan><tspan class="v">10+ years</tspan>
+<tspan x="317.4" y="170.9" class="k">Focus</tspan><tspan>: </tspan><tspan class="d">......................... </tspan><tspan class="v">AI-powered products</tspan>
+<tspan x="317.4" y="188.9" class="k">Builds</tspan><tspan>: </tspan><tspan class="d">................... </tspan><tspan class="v">Websites, web apps, SaaS</tspan>
+<tspan x="317.4" y="224.9" class="d">- Contact ——————————————————————————————————————————</tspan>
+<tspan x="317.4" y="242.9" class="k">Website</tspan><tspan>: </tspan><tspan class="d">............................ </tspan><tspan class="v">albidudija.com</tspan>
+<tspan x="317.4" y="260.9" class="k">X</tspan><tspan>: </tspan><tspan class="d">..................................... </tspan><tspan class="v">@albidudija</tspan>
+<tspan x="317.4" y="278.9" class="k">GitHub</tspan><tspan>: </tspan><tspan class="d">................................... </tspan><tspan class="v">@ADudija</tspan>
+<tspan x="317.4" y="314.9" class="d">- GitHub Stats —————————————————————————————————————</tspan>
+<tspan x="317.4" y="332.9" class="k">Repos</tspan><tspan>: </tspan><tspan class="d">........................................... </tspan><tspan class="v">1</tspan>
+<tspan x="317.4" y="350.9" class="k">Stars</tspan><tspan>: </tspan><tspan class="d">........................................... </tspan><tspan class="v">0</tspan>
+<tspan x="317.4" y="368.9" class="k">Followers</tspan><tspan>: </tspan><tspan class="d">....................................... </tspan><tspan class="v">0</tspan>
+<tspan x="317.4" y="386.9" class="k">Commits</tspan><tspan>: </tspan><tspan class="d">........................................ </tspan><tspan class="v">10</tspan>
+<tspan x="317.4" y="422.9" class="k">&gt; </tspan><tspan class="cur">█</tspan>
+</text></svg>
